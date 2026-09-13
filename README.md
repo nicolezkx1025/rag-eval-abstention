@@ -1,3 +1,5 @@
+> 个人主页：<https://nicolezkx1025.github.io/> · 研究兴趣：<https://nicolezkx1025.github.io/research/>
+
 # rag-eval-abstention
 
 **让 RAG 学会说"我不知道"：拒答阈值如何用覆盖率换精确率。**
